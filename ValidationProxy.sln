@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationProxy.Core", "Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationProxy.Example", "Projects\ValidationProxy.Example\ValidationProxy.Example.csproj", "{5BD60B99-4618-4CB8-95F1-201A69FEF8EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationProxy.Core.Tests", "Tests\ValidationProxy.Core.Tests\ValidationProxy.Core.Tests.csproj", "{E392AFD1-50E0-4985-99F9-DFFFE0CA3346}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidationProxy.Core.Tests", "Tests\ValidationProxy.Core.Tests\ValidationProxy.Core.Tests.csproj", "{E392AFD1-50E0-4985-99F9-DFFFE0CA3346}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{903D2ADF-1907-4912-BBE6-81726A5BEE9E}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
